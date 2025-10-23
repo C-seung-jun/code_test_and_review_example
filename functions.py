@@ -7,4 +7,5 @@ def minus(a, b):
     return a - b
 
 def exp(a, b):
-    pass
+    """Exponential a**b."""
+    return a ** b

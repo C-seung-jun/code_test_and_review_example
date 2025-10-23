@@ -9,3 +9,8 @@ def minus(a, b):
 def exp(a, b):
     """Exponential a**b."""
     return a ** b
+
+def divide(a, b):
+    """Divide b from a"""
+    return a / b
+
